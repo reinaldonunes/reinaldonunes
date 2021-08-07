@@ -7,7 +7,7 @@ Atuo como desenvolvedor Web Front-End, com ênfase em HTML, CSS e JS (JQuery). A
 <br /><br />
 ⚡ UI Designer (Figma, Fireworks)<br />
 ⚡ Dev Front-End (HTML, CSS, JQuery)<br />
-⚡ Professor de Informática Básica<br />
+⚡ Professor de Informática (Word, Excel, Power Point, Photoshop, Animate, Corel)<br />
 💬 Meu contato: https://www.linkedin.com/in/reinaldo-nunes-72166a22/<br />
 💻 Portfólio: http://be.net/reinaldonunes
 
