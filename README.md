@@ -3,7 +3,9 @@
 ### Olá, seja bem vindo 👋
 
 Sou formado em Comunicação Social - habilitação em Publicidade e Propaganda, e atualmente estudante de Tecnologia de Sistemas para Internet.
-Atuo como desenvolvedor Web Front-End, com ênfase em HTML, CSS e JS (JQuery). Atualmente, estudando programação para evoluir minhas habilidades.
+Atuo como desenvolvedor Web Front-End, com ênfase em HTML, CSS e JS (JQuery). 
+<br />
+No momento, estou estudando programação back-end (PHP + CodeIgniter) e front-end (React + NextJS).
 <br /><br />
 ⚡ UI Designer (Figma, Fireworks)<br />
 ⚡ Dev Front-End (HTML, CSS, JQuery)<br />
