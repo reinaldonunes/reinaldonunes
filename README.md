@@ -10,7 +10,7 @@ No momento, estou estudando programação back-end (PHP + CodeIgniter) e front-e
 ⚡ UI Designer (Figma, Fireworks)<br />
 ⚡ Dev Front-End (HTML, CSS, JQuery)<br />
 ⚡ Professor de Informática (Word, Excel, Power Point, Photoshop, Animate, Corel)<br />
-💬 Meu contato: https://www.linkedin.com/in/reinaldo-nunes-72166a22/<br />
+💬 Meu contato: https://www.linkedin.com/in/reinaldojnunes<br />
 💻 Portfólio: http://be.net/reinaldonunes <br />
 🌐 Site: https://reinaldonunes.github.io/dev/
 
