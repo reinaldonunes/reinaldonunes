@@ -1,13 +1,10 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<style>
-body{
-  background:#ddd;
-}
-</style>
+
 ### Olá, seja bem vindo 👋
 
 ⚡ UI Designer (Figma, Fireworks)<br />
 ⚡ Dev Front-End (HTML, CSS, JQuery, NextJS, PHP)<br />
+⚡ Formado em Publicidade e Propaganda, cursando Sistemas para Internet
 
 💬 Meu contato: https://www.linkedin.com/in/reinaldojnunes<br />
 💻 Portfólio: http://be.net/reinaldonunes <br />
@@ -15,7 +12,7 @@ body{
 
 ### Conhecimentos
 
-<div style="display:flex;justify-contents:space-around;align-items:center;flex-wrap:wrap;padding:10px 15px;border-radius:8px;background:#fff;width:fit-content;"><br>
+<div style="display:flex;justify-contents:space-around;align-items:center;flex-wrap:wrap;padding:10px 15px;border-radius:8px;background-color:#fff;width:fit-content;"><br>
   <img align="center" alt="Reinaldo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Reinaldo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Reinaldo-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
