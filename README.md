@@ -1,7 +1,7 @@
 ### Hi, Welcome! 👋
 
 ⚡ UI Designer (Figma, Adobe XD, Elementor)<br />
-⚡ Web Developer (Php, NextJs, Ruby on Rails)<br />
+⚡ Web Developer (Vue.js, Ruby on Rails & Php)<br />
 ⚡ Bachelor in Advertising and marketing :: Majorin in Internet Systems Technology
 
 💬 Linkedin: https://www.linkedin.com/in/reinaldojnunes<br />
