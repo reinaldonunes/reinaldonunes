@@ -9,7 +9,8 @@
 🌐 Portfolio: https://reinaldonunes.github.io/dev/
 
 ##
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,vue,nuxt,rails,git,linux&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,vite,vue,nuxt,rails,git,linux&theme=dark)](https://skillicons.dev)
 
 <div>
   <a href="https://github.com/reinaldonunes">
