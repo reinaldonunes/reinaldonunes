@@ -10,7 +10,7 @@
 
 ##
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,vite,vue,nuxt,rails,git,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,vite,vue,nuxt,react,next,rails,git,linux&theme=dark)](https://skillicons.dev)
 
 <div>
   <a href="https://github.com/reinaldonunes">
