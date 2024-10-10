@@ -2,7 +2,7 @@
 
 ⚡ UI Designer (Figma, Adobe XD, Elementor)<br />
 ⚡ Web Developer (Vue.js, Ruby on Rails & Php)<br />
-⚡ Bachelor in Advertising and marketing :: Majorin in Internet Systems Technology
+⚡ Bachelor in Advertising and marketing :: Internet Systems Technologist
 
 💬 Linkedin: https://www.linkedin.com/in/reinaldojnunes<br />
 💻 Behance: http://be.net/reinaldonunes <br />
